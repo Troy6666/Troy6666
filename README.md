@@ -4,10 +4,9 @@
 
 ## I'm a Developer, and Student!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everythings
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to program and learn new languages
+- ⚡ I love to program and learn new languages
 
 ### Connect with me:
 
