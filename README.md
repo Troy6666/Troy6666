@@ -27,12 +27,7 @@ Me especializo en desarrollo backend, creación de infraestructuras digitales y 
 
 ### 🚀 Proyectos en los que he trabajado:
 
-- 🔥 Desarrollo avanzado para servidores **FiveM** (ESX / QBCore)  
-  - Sistemas bancarios personalizados  
-  - Sistemas de combustible  
-  - Drones policiales por comando  
-  - Optimización y reestructuración de scripts  
-
+- 🔥 Desarrollo avanzado para servidores **FiveM** (ESX / QBCore / Qbox)   
 - 🤖 Bots avanzados de Discord  
 - 🌐 Infraestructura VPS y servicios de hosting  
 - 🚀 Fundador de proyectos digitales enfocados a comunidades gaming  
