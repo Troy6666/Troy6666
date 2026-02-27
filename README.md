@@ -1,41 +1,69 @@
-### Hi there, I'm Troy - aka [TroyESP] 👋
+# ¡Bienvenido a mi GitHub! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TroyESP?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Troy_ESP)
+Soy **TroyESP**, desarrollador y estudiante apasionado por la programación, la optimización de sistemas y la ciberseguridad.
 
-## I'm a Developer, and Student!!
+Me especializo en desarrollo backend, creación de infraestructuras digitales y sistemas avanzados para servidores **FiveM**. Siempre estoy buscando mejorar mis habilidades y construir proyectos cada vez más técnicos y profesionales.
 
-- 🌱 I’m currently learning everythings
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ I love to program and learn new languages
+---
 
-### Connect with me:
+### 🔧 Lenguajes que utilizo:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)  
+  **JavaScript**: Desarrollo de sistemas para FiveM (ESX / QBCore), backend con Node.js y automatización.
 
-<br />
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)  
+  **Python**: Scripts avanzados, bots de Discord, automatización y herramientas técnicas orientadas a sistemas y seguridad informática.
 
-### Languages and Tools:
+- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=FFFFFF)  
+  **C**: Programación de bajo nivel, comprensión de sistemas y optimización de rendimiento.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF)  
+  **C++**: Desarrollo de aplicaciones de alto rendimiento y estudio de arquitectura de software.
 
-<br />
-<br />
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF)  
+  **PHP**: Desarrollo de paneles web, sistemas dinámicos y herramientas backend.
 
+---
 
+### 🚀 Proyectos en los que he trabajado:
 
-</details>
+- 🔥 Desarrollo avanzado para servidores **FiveM** (ESX / QBCore)  
+  - Sistemas bancarios personalizados  
+  - Sistemas de combustible  
+  - Drones policiales por comando  
+  - Optimización y reestructuración de scripts  
 
-[twitter]: https://twitter.com/Troy_ESP
-[youtube]: https://youtube.com/channel/UCRe58CFE2JHuTagOfUGnfQg
-[instagram]: https://instagram.com/troyesp1
+- 🤖 Bots avanzados de Discord  
+- 🌐 Infraestructura VPS y servicios de hosting  
+- 🚀 Fundador de proyectos digitales enfocados a comunidades gaming  
+- 🧠 Formación en Inteligencia Artificial (Santander x Google)
+
+---
+
+### 📚 Tecnologías y herramientas que utilizo:
+
+- Node.js  
+- MySQL / MongoDB  
+- Git & GitHub  
+- Linux / VPS  
+- Visual Studio Code  
+- Optimización de sistemas Windows orientados a rendimiento y gaming  
+
+---
+
+### 🌱 Actualmente:
+
+- 📚 Profundizando en desarrollo de software  
+- 🔐 Mejorando conocimientos en ciberseguridad  
+- ⚡ Optimizando sistemas y rendimiento  
+- 🚀 Escalando proyectos digitales propios  
+
+---
+
+### 📫 Contacto:
+
+- **Discord:** troyesp  
+
+---
+
+Gracias por visitar mi perfil 😄
